@@ -1,5 +1,8 @@
 # README for CRUD-app Frontend (Angular)
 
+![Aperçu du formulaire de contact](./img2.png)
+![Aperçu du formulaire de contact](./img3.png)
+
 ## Description
 
 The frontend of the CRUD-app is built using Angular and provides the user interface for interacting with the application. This project is designed to be run independently of the backend but communicates with the backend API to perform CRUD operations.
